@@ -1,0 +1,26 @@
+h1 {
+	color: 	darkgoldenrod;
+  background-color: lightblue;
+  border: 4px dotted red;
+}
+
+h1:hover {
+	background-color: brown;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+  transition-duration: 1s;
+}
+
+img:hover {
+	transform: rotate(360deg);
+}
+h3 { 
+	color:  red;
+}
+h3:hover {
+  background-color: brown;
+}
+  
