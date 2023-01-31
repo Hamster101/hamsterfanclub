@@ -14,7 +14,7 @@ h1:hover {
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 25px;
   transition-duration: 1s;
 }
 
@@ -28,15 +28,12 @@ h3:hover {
   background-color: brown;
 }
 
-  h2 {background-color: skyblue;
+  h2 {
+  background-color: skyblue;
   color: blue;
 }
 
-a {
-	color: red;
-  background-color: darkcyan;
-  
-}
+
 
 div a {
  background: yellow;
@@ -44,7 +41,7 @@ div a {
 }
 
 div p a {
-  background: pink;
+  background: black;
   color: lightblue;
 }
 
@@ -53,5 +50,35 @@ div p a {
  border-top: 5px dashed orange;
  border-left: 5px dashed red;
  border-right: 5px dashed yellow;
- 
+padding: 25px;
+
 }
+
+.header a { 
+	color: red;
+  background-color: darkcyan;
+}
+
+.quiz a {
+  display: block;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 50px;
+  text-align: center;
+}
+
+.quiz h4 {
+  text-align: center;
+  font-size: 24px;
+}
+
+.hamster li {
+  color: black;
+}
+
+
+
+
+
+
