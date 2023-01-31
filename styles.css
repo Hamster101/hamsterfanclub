@@ -1,3 +1,7 @@
+body {
+ background-color: grey;
+}
+
 h1 {
 	color: 	darkgoldenrod;
   background-color: lightblue;
@@ -23,4 +27,31 @@ h3 {
 h3:hover {
   background-color: brown;
 }
+
+  h2 {background-color: skyblue;
+  color: blue;
+}
+
+a {
+	color: red;
+  background-color: darkcyan;
   
+}
+
+div a {
+ background: yellow;
+ color: blue;
+}
+
+div p a {
+  background: pink;
+  color: lightblue;
+}
+
+.hamster {
+ max-width: fit-content;
+ border-top: 5px dashed orange;
+ border-left: 5px dashed red;
+ border-right: 5px dashed yellow;
+ 
+}
